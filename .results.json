@@ -5,9 +5,9 @@
     "passes": 5,
     "pending": 0,
     "failures": 0,
-    "start": "2020-10-29T02:39:11.140Z",
-    "end": "2020-10-29T02:39:11.943Z",
-    "duration": 803
+    "start": "2020-11-01T18:39:25.178Z",
+    "end": "2020-11-01T18:39:25.505Z",
+    "duration": 327
   },
   "tests": [
     {
@@ -41,7 +41,7 @@
     {
       "title": "unsuccessfully tries to reassign the least favorite customer",
       "fullTitle": "Fix the Scope changeLeastFavoriteCustomer() unsuccessfully tries to reassign the least favorite customer",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     }
@@ -80,7 +80,7 @@
     {
       "title": "unsuccessfully tries to reassign the least favorite customer",
       "fullTitle": "Fix the Scope changeLeastFavoriteCustomer() unsuccessfully tries to reassign the least favorite customer",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     }
